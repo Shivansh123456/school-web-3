@@ -1,0 +1,66 @@
+body {
+  text-align: center;
+  background color: orange;
+  background-repeat: no-repeat;
+}
+
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.nav navbar-nav {
+    display: inline;
+    padding: 15px;
+}
+html {
+    scroll-behavior: smooth;
+}
+nav {
+    text-align: center;
+}
+marquee {
+    background-color: aqua;
+}
+h5 {
+    width: 377px;
+}
+
+.row::after {
+    content: "";
+        clear: both;
+    display: table;
+}
+
+.travel_div {
+    float: left;
+    width: 33.33%;
+    border: 1px solid #c7c7c7;
+}
+
+#web {
+    background-color: orange;
+}
+#acheivements_ID {
+    padding-bottom: 10px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i {
+    float: right;
+}
+.movie_head span {
+    color: orange;
+}
+
